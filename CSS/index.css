@@ -1,0 +1,32 @@
+body{
+    background-color: #FF7F50;
+}
+.div1{
+    background-color: #40E0D0;
+    text-align: center;
+}
+.div2{
+    background-color: #D8F1F8;
+    font-size: 20px;
+    text-align: center; 
+    height: 400px;
+    width: 450px;
+    padding: 15px;
+    margin: auto;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    align-items:center ;
+}
+input{
+    margin-bottom: 20px;
+    width: 250px;
+    height: 20px;
+}
+.date{
+    width: 150px;
+}
+button{
+    padding:6px;
+}
